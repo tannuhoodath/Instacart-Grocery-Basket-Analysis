@@ -23,6 +23,7 @@ The datasets used for this analysis comprises of the information on the followin
 3. Departments
 4. Customers
 
+Access raw data [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis?select=orders.csv) except Customers dataset.
 
 # Code Overview
 Python and Jupyter notebooks were used for all data cleaning, exploration, analysis and visualization.
